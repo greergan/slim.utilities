@@ -1,7 +1,7 @@
 # slim.utilities
 A set of reusable Typescript functions for the Slim platform
 
-## slim.comingle
+## slim.comingle - deep copy
 
 A synchronized version of comingle. Takes in multiple JSON objects and outputs a new object which contains comingled properties.
 
